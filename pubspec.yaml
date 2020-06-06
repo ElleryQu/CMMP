@@ -28,6 +28,7 @@ dependencies:
   path_provider:
   sqflite:
   path:
+  flutter_local_notifications:
 
 dev_dependencies:
   flutter_test:
